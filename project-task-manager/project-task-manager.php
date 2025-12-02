@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Project Task Manager
- * Plugin URI: https://github.com/ar8/wp-task-manager-plugin
+ * Plugin URI: https://github.com/ar8/wp-project-task-manager-plugin
  * Description: A drag-and-drop project task management system for WordPress
  * Version: 1.0.0
  * Author: Ana Rodriguez
